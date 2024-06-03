@@ -29,11 +29,11 @@ The LeNet architecture is a classic convolutional neural network (CNN) architect
 
 **Experiments**
 ---------------
-Weight Pruning: Pruning individual weights based on their magnitude or importance.
-Global Pruning: Pruning weights globally across the entire model.
-Iterative Pruning: Gradually pruning the model over multiple iterations.
-Random Unstructured Pruning: Randomly pruning a certain percentage of parameters.
-L1 Unstructured Pruning: Pruning based on norm magnitudes of parameters.
+* Weight Pruning: Pruning individual weights based on their magnitude or importance.
+* Global Pruning: Pruning weights globally across the entire model.
+* Iterative Pruning: Gradually pruning the model over multiple iterations.
+* Random Unstructured Pruning: Randomly pruning a certain percentage of parameters.
+* L1 Unstructured Pruning: Pruning based on norm magnitudes of parameters.
 
 **Contributions**
 -----------------
